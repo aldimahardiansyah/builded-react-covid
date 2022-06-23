@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-covid/static/css/main.4d76251f.css",
+    "main.js": "/react-covid/static/js/main.ee5ac4e2.js",
+    "static/media/medical_care.png": "/react-covid/static/media/medical_care.ead047dc79c21f94dd6b.png",
+    "static/media/Image.png": "/react-covid/static/media/Image.c3c784495f12656603cb.png",
+    "index.html": "/react-covid/index.html",
+    "main.4d76251f.css.map": "/react-covid/static/css/main.4d76251f.css.map",
+    "main.ee5ac4e2.js.map": "/react-covid/static/js/main.ee5ac4e2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4d76251f.css",
+    "static/js/main.ee5ac4e2.js"
+  ]
+}
